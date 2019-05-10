@@ -1,5 +1,5 @@
 # example-CICD-tool
-[![CircleCI](https://circleci.com/gh/salamandra19/example-CICD-tool.svg?style=svg)](https://circleci.com/gh/salamandra19/example-CICD-tool)
+[![CircleCI](https://circleci.com/gh/salamandra19/example-CICD-tool.svg?style=svg)](https://circleci.com/gh/salamandra19/example-CICD-tool) [![Coverage Status](https://coveralls.io/repos/github/salamandra19/example-CICD-tool/badge.svg?branch=master)](https://coveralls.io/github/salamandra19/example-CICD-tool?branch=master)
 
 This is example command-line tool with configured CI/CD.
 
