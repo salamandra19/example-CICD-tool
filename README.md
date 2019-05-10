@@ -1,4 +1,5 @@
 # example-CICD-tool
+[![CircleCI](https://circleci.com/gh/salamandra19/example-CICD-tool.svg?style=svg)](https://circleci.com/gh/salamandra19/example-CICD-tool)
 
 This is example command-line tool with configured CI/CD.
 
