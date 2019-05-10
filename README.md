@@ -10,7 +10,7 @@ Download binary for your OS manually from
 this to install the latest version:
 
 ```sh
-curl -sfL $(curl -s https://api.github.com/repos/salamandra19/example-CICD-tool/releases/latest | grep -i /gh-make-labels-$(uname -s)-$(uname -m)\" | cut -d\" -f4) | sudo install /dev/stdin /usr/local/bin/example-CICD-tool
+curl -sfL $(curl -s https://api.github.com/repos/salamandra19/example-CICD-tool/releases/latest | grep -i /example-CICD-tool-$(uname -s)-$(uname -m)\" | cut -d\" -f4) | sudo install /dev/stdin /usr/local/bin/example-CICD-tool
 ```
 
 
